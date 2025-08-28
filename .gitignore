@@ -2,3 +2,7 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+#PyVis artifacts / big files
+outputs/*.html
+notebooks/lib/
+
